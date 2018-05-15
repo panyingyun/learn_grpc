@@ -9,6 +9,8 @@ import (
 	"github.com/panyingyun/learn_grpc/protocolexp/packet"
 )
 
+//https://segmentfault.com/a/1190000009277748
+
 func main() {
 	// 填充数据
 	user := packet.UserInfo{
