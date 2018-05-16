@@ -1,0 +1,6 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [],
+	"rootPath": "github.com/panyingyun/learn_grpc/rpc_http/client"
+}

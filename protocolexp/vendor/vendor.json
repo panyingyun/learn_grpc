@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "ZQKjg7USrTzlCOloM3qEiRdoZDI=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "927b65914520a8b7d44f5c9057611cfec6b2e2d0",
+			"revisionTime": "2018-05-11T22:16:37Z"
+		}
+	],
+	"rootPath": "github.com/panyingyun/learn_grpc/protocolexp"
+}
