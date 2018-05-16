@@ -1,4 +1,4 @@
-//go:generate protoc --go_out=. test.proto
+//go:generate protoc --go_out=. ./packet/test.proto
 
 package main
 
