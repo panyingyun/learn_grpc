@@ -40,3 +40,5 @@ https://github.com/rpcx-ecosystem/rpcx-examples3
 go get -u -v -tags "etcd" github.com/smallnest/rpcx/...
 
 
+ETCD Install:
+https://www.hi-linux.com/posts/49138.html
