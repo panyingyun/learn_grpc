@@ -42,3 +42,10 @@ go get -u -v -tags "etcd" github.com/smallnest/rpcx/...
 
 ETCD Install:
 https://www.hi-linux.com/posts/49138.html
+
+go build -tags etcd client.go
+go build -tags etcd server.go
+
+4、grpc
+
+https://scguoi.github.io/DivisionByZero/2016/11/15/GO%E8%AF%AD%E8%A8%80RPC%E6%96%B9%E6%A1%88%E8%B0%83%E7%A0%94.html
